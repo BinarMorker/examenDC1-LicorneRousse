@@ -45,3 +45,11 @@ Cet exemple montre deux algorithmes de tri en utilisant Python3:
 
 * Tri bulle
 * Tri insertion
+
+Tris en python3
+---------------
+
+Cet exemple montre deux algorithmes récursifs de tri en utilisant Python3:
+
+* Tri fusion
+* Tri rapide
