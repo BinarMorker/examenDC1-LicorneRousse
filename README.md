@@ -1,3 +1,5 @@
+Fusion effectuée par François Allard
+
 Exemple pour les cours
 ======================
 
